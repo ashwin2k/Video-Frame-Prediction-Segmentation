@@ -1,0 +1,3 @@
+Segmentation_Code/good_deeplabv3plus_final_scaled.pth
+Segmentation_Code/resnet50_best_model.pth
+Segmentation_Code/lightning_logs
