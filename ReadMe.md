@@ -1,7 +1,7 @@
 # Transformavericks - Video Frame Prediction + Segmentation
 
 # Instructions to reproduce our results
-
+**IMPORTANT: Download these files and place it in Segmentation_Code Folder https://drive.google.com/drive/folders/1wqzivNuFtXJ4sDycgLebhqCY36IczRqW?usp=sharing**
 1) This repo has two main models , one is Video Frame Prediction and Segmentation
 2) First task is to train video frame Prediction model
 3) To do that first navigate to "VideoPred" Folder
