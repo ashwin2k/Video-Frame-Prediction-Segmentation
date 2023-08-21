@@ -1,5 +1,6 @@
 # Transformavericks - Video Frame Prediction + Segmentation
-
+Course Project for CSCI-GA - 2572. Uses the first 11 frames to predict the semantic segmentation for the next 11 frames.
+Ranked at 7th best model out of 23 teams
 # Instructions to reproduce our results
 **IMPORTANT: Download these files and place it in Segmentation_Code Folder https://drive.google.com/drive/folders/1wqzivNuFtXJ4sDycgLebhqCY36IczRqW?usp=sharing**
 1) This repo has two main models , one is Video Frame Prediction and Segmentation
